@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phizall1813
+- 👋 Hi, I’m @Koushik
 - 👀 I’m interested in Computer and playing Football
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ...
